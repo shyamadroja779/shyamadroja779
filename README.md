@@ -19,15 +19,14 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://profile-counter.glitch.me/shyamadroja779/count.svg?"/>
 </div>
 
-###
+
 
 <p align="left">_________________________________________________________________________________________________________________________________________________</p>
 
-###
+
 
 <h3 align="left">Language and Tools</h3>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -62,14 +61,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-profile-trophy.vercel.app?username=shyamadroja779&theme=tokyonight&column=8&row=1&margin-w=5&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+
 
 <p align="left">_________________________________________________________________________________________________________________________________________________</p>
-###
+
 
 <h3 align="left">Connect with me :-</h3>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jay-patel-a25aa42b4/" target="_blank">
@@ -94,7 +93,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
@@ -102,18 +101,18 @@ You can click the Preview link to take a look at your changes.
   <img height="121" src="https://i.gifer.com/31Kl.gif"  />
 </div>
 
-###
+
 
 <img align="left" height="150" src="https://i.gifer.com/9Pf1.gif"  />
 
-###
+
 
 <img align="left" height="150" src="https://i.gifer.com/DVYt.gif"  />
 
-###
+
 
 <img align="left" height="150" src="https://i.gifer.com/9kGQ.gif"  />
 
-###
+
 
 <img align="left" height="130" src="https://i.gifer.com/758X.gif"  />
