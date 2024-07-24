@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif)]
 
 <!---
 shyamadroja779/shyamadroja779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img src="https://raw.githubusercontent.com/shyamadroja779/shyamadroja779/output/snake.svg" alt="Snake animation" />
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif)]
+
 
 ###
 
