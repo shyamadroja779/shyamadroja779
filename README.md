@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" alt="coding" width="400" scr="[[https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif](https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif)](https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif)" />
+<img align="right" alt="coding" width="400" scr="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" />
 
 ###
 <h3 align="center">Total Profile Views</h3>
