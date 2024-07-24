@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <h5 align="center">👨‍💻I’m currently  studying in Darshan University.</h5>
 <div align="center">
-<img src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif"/>
+<img width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif"/>
 </div>
 
 ###
