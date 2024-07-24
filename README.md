@@ -22,12 +22,12 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img src="https://raw.githubusercontent.com/jaypatel342005/jaypatel342005/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shyamadroja779/shyamadroja779/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jaypatel342005/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/shyamadroja779/count.svg?"  />
 </div>
 
 ###
