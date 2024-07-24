@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 <div align="center">
-<img scr="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" />
+<img scr="[https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif](https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif)" />
 </div>
 
 ###
