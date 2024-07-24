@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jay-patel-a25aa42b4/" target="_blank">
+  <a href="https://www.linkedin.com/in/shyam-adroja-7914372a3/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
