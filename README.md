@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 <br clear="both">
 
 <h1 align="center">Hi 👋, I'm SHYAM ADROJA!</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 ###
 
@@ -15,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" alt="coding" width="400" scr="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" />
 
 ###
 <h3 align="center">Total Profile Views</h3>
