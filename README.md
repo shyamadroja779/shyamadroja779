@@ -65,11 +65,11 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaypatel342005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel342005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jaypatel342005&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaypatel342005&radius=100&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=jaypatel342005&theme=tokyonight&column=8&row=1&margin-w=5&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamadroja779&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyamadroja779&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=shyamadroja779+&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyamadroja779&radius=100&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=shyamadroja779&theme=tokyonight&column=8&row=1&margin-w=5&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
