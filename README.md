@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ###
-
+<h3 align="center">Total Profile Views</h3>
 <div align="center">
   <img src="https://profile-counter.glitch.me/shyamadroja779/count.svg?"  />
 </div>
