@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 <h5 align="left">👨‍💻I’m currently  studying in Darshan University.</h5>
 
 ###
-
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif)]
-
+<div align="center">
+<img scr="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" />
+</div>
 
 ###
 <h3 align="center">Total Profile Views</h3>
