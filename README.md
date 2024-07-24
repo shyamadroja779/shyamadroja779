@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm SHYAM ADROJA!</h1>
 
 <h5 align="center">👨‍💻I’m currently  studying in Darshan University.</h5>
-<img align="center" alt="Coding" width="400" border-radius="10"src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+<img margin-left="50%" alt="Coding" width="400" border-radius="10"src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 
 
