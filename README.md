@@ -1,4 +1,5 @@
 
+
 <!---
 shyamadroja779/shyamadroja779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -8,8 +9,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm SHYAM ADROJA!</h1>
 
 <h5 align="center">👨‍💻I’m currently  studying in Darshan University.</h5>
-[![MasterHead](https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif)]
-
+<img src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif"/>
 
 
 ###
