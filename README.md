@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   
-  <a href="https://www.instagram.com/shyam._.0778/?next=%2F" target="_blank">
+  <a href="https://www.instagram.com/shyam.__.0778/?igsh=dXZIcHdtY244Y2tz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   
