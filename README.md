@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <br clear="both">
 
 <h1 align="center">Hi 👋, I'm SHYAM ADROJA!</h1>
-<img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+<img align="right" alt="Coding" width="400" border-radius="10"src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 ###
 
