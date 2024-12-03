@@ -96,23 +96,3 @@ You can click the Preview link to take a look at your changes.
 
 
 <br clear="both">
-
-<div align="center">
-  <img height="121" src="https://i.gifer.com/31Kl.gif"  />
-</div>
-
-
-
-<img align="left" height="150" src="https://i.gifer.com/9Pf1.gif"  />
-
-
-
-<img align="left" height="150" src="https://i.gifer.com/DVYt.gif"  />
-
-
-
-<img align="left" height="150" src="https://i.gifer.com/9kGQ.gif"  />
-
-
-
-<img align="left" height="130" src="https://i.gifer.com/758X.gif"  />
