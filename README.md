@@ -13,11 +13,6 @@ You can click the Preview link to take a look at your changes.
 <img width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif"/>
 </div>
 
-###
-<h3 align="center">Total Profile Views</h3>
-<div align="center">
-  <img align="center" src="https://profile-counter.glitch.me/shyamadroja779/count.svg?"/>
-</div>
 
 
 
