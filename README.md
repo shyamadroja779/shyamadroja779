@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="left">_______________________________________________________________________________________________________________________________________</p>
 
 
 
@@ -50,7 +49,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
 </div>
 
-<p align="left">_________________________________________________________________________________________________________________________________________</p>
 
 
 <div align="center">
@@ -59,7 +57,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="left">_______________________________________________________________________________________________________________________________________</p>
 
 
 <h3 align="left">Connect with me :-</h3>
