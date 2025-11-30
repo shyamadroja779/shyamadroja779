@@ -45,13 +45,20 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-
 <div align="center">
+  
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamadroja779&layout=compact&langs_count=10&theme=radical&hide_border=true&border_radius=12" 
-    height="190" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamadroja779&layout=compact&langs_count=8&theme=dracula&hide_border=false" 
+    height="180" 
   />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shyamadroja779&show_icons=true&theme=dracula&hide_border=false" 
+    height="180" 
+  />
+
 </div>
+
 
 
 
