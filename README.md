@@ -46,16 +46,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamadroja779&layout=compact&langs_count=8&theme=dracula&hide_border=false" 
-    height="180" 
-  />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shyamadroja779&show_icons=true&theme=dracula&hide_border=false" 
-    height="180" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyamadroja779&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamadroja779&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
 
 </div>
 
