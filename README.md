@@ -34,7 +34,7 @@ Hello! I'm **Shyam Adroja**, a student at **Darshan University** driven by the s
 * 🔭 **Current Mission:** Currently working to master **Next.js** (for full-stack capabilities) and **Redux** (for state management) on a major project.
 * 🤝 **Collaboration:** Eager to contribute to challenging open-source projects, especially those involving the MERN stack, Next.js, or innovative solutions using Python/ML.
 * 💡 **Ask Me About:** Optimal data structures, C# architecture, state management with Redux, or the latest advancements in neural networks.
-* ⚡ **Fun Fact:** [A personal fun fact about you]
+
 
 ---
 
