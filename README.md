@@ -47,17 +47,16 @@ Hello! I'm **Shyam Adroja**, a student at **Darshan University** driven by the s
 | **Backend/Runtime** | **Node.js**, **Express.js**, **NestJS**, **.NET** |
 | **Data/ML** | **Machine Learning** (Concepts/Libraries) |
 | **Databases** | **MongoDB**, **MS SQL**, **MySQL** |
-| **Tools/DevOps** | Git, GitHub, [Docker, VS Code, etc.] |
+| **Tools/DevOps** | Git, GitHub, VScode, Postman, PhPmyAdmin |
 
 ---
 
 ### 📊 GitHub Stats
 
-Show off your activity and skills! Replace `[Your-GitHub-Username]` with your actual username.
 
 | Stats Card | Top Languages Card |
 | :---: | :---: |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamadroja779&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamadroja779&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 
