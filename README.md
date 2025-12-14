@@ -28,11 +28,12 @@ You can click the Preview link to take a look at your changes.
 ### 🚀 The Digital Alchemist
 
 Hello! I'm **Shyam Adroja**, a student at **Darshan University** driven by the synergy between data and development. I see code not just as logic, but as a tool to unlock new insights and craft robust solutions.
+I specialize in building bridges between data and robust application architecture. I don't just write code; I engineer scalable digital solutions.
 
-* 🧠 **My Focus:** Deeply engaged in **Machine Learning**, while building robust and scalable backends using **Node.js/NestJS** and **.NET**.
-* 💻 **My Toolkit:** Expertise in **JavaScript** and modern **TypeScript** development. I specialize in building fast, modern frontends with **React** and **Next.js**.
-* 🔭 **Current Mission:** Currently working to master **Next.js** (for full-stack capabilities) and **Redux** (for state management) on a major project.
-* 🤝 **Collaboration:** Eager to contribute to challenging open-source projects, especially those involving the MERN stack, Next.js, or innovative solutions using Python/ML.
+* 💡 **Current Focus:** Deeply immersed in **Machine Learning (ML)** fundamentals to integrate predictive capabilities into applications. Simultaneously mastering the modern full-stack: **Next.js** for high-performance server-side rendering, and **NestJS** for enterprise-grade, modular backend systems.
+* 🛠️ **Foundation:** I have a comprehensive and proven background in the **MERN Stack (MongoDB, Express, React, Node.js)**, alongside proficiency in **C#/.NET** and core languages like **Python** and **TypeScript**.
+* 🎯 **My Goal:** To leverage this diverse toolkit to build efficient, intelligent, and resilient software, tackling challenges from high-concurrency API design to complex data modeling.
+* 🤝 **Collaboration:** I actively seek opportunities in **Full-Stack Architecture**, **Data Science projects**, or open-source initiatives where I can contribute my mixed expertise.
 * 💡 **Ask Me About:** Optimal data structures, C# architecture, state management with Redux, or the latest advancements in neural networks.
 
 
